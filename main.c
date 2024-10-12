@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#inclue "header.h"
 int main(){
     int i = 0;
     printf("Please enter a number: ");
