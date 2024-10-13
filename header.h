@@ -1,10 +1,11 @@
+
 #ifndef HEADER_H
 #define HEADER_H
 
 // Standard library includes
 #include <stdio.h>
 #include <stdlib.h>
-#include <fstream>
+#include "header2.hpp"
 
 // Macro definitions
 #define PI 3.14159
